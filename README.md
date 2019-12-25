@@ -31,9 +31,9 @@ There is a template written on what the blog should provide, you can find it in 
     * [Sparse table.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sparse_table.md) :x:
     * [SQRT Decomposition.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sqrt_decomposition.md) :x:
 * Dynamic Programming
-    * [Dynamic Programming Basic.](https://github.com/Hiasat/JordanCP/blob/master/dynamic-programming/dp-basic.md) :x:
+    * [Dynamic Programming Basic.](https://github.com/Hiasat/JordanCP/blob/master/dynamic-programming/dp-basic.md) :heavy_check_mark:
 * Graph Theory
-    * [Introduction to competitive programming.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/introduction_graph_theory.md) :x:
+    * [Introduction to Graph theory.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/introduction_graph_theory.md) heavy_check_mark:
     * [Breadth First Search.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/breadth_first_search.md) :x:
     * [Depth First Search.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/depth_first_search.md) :x:
     * [Dijsktra.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/dijsktra.md) :x:
