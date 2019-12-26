@@ -18,22 +18,21 @@ There is a template written on what the blog should provide, you can find it in 
 ## Progress
 * General
     * [Introduction to Competitive programming.](https://github.com/Hiasat/JordanCP/blob/master/general/introduction_competitive_programming.md) :x:
-    * [Binary Search.](https://github.com/Hiasat/JordanCP/blob/master/general/binary_search.md) :x:
+    * [Binary Search And Two Pointers.](https://github.com/Hiasat/JordanCP/blob/master/general/binary_search_two_pointers.md) :heavy_check_mark:
     * [Complexity.](https://github.com/Hiasat/JordanCP/blob/master/general/complexity.md) :x:
     * [Frequency Array.](https://github.com/Hiasat/JordanCP/blob/master/general/frequency_array.md) :x:
     * [Prefix Sum.](https://github.com/Hiasat/JordanCP/blob/master/general/prefix_sum.md) :x:
     * [STL](https://github.com/Hiasat/JordanCP/blob/master/general/stl.md) :x:
-    * [Two Pointers.](https://github.com/Hiasat/JordanCP/blob/master/general/two_pointers.md) :x:
 * Data Structure
     * [Binary Indexed tree.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/binary_indexed_tree.md) :x:
-    * [Segment tree.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/segment_tree.md) :x:
+    * [Segment tree.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/segment_tree.md) :heavy_check_mark:
     * [Lazy propagation.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/lazy_propagation.md) :x:
     * [Sparse table.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sparse_table.md) :x:
     * [SQRT Decomposition.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sqrt_decomposition.md) :x:
 * Dynamic Programming
     * [Dynamic Programming Basic.](https://github.com/Hiasat/JordanCP/blob/master/dynamic-programming/dp-basic.md) :heavy_check_mark:
 * Graph Theory
-    * [Introduction to Graph theory.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/introduction_graph_theory.md) heavy_check_mark:
+    * [Introduction to Graph theory.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/introduction_graph_theory.md) :heavy_check_mark:
     * [Breadth First Search.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/breadth_first_search.md) :x:
     * [Depth First Search.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/depth_first_search.md) :x:
     * [Dijsktra.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/dijsktra.md) :x:
