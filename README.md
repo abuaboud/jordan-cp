@@ -47,9 +47,9 @@ There is a template written on what the blog should provide, you can find it in 
     * [KMP.](https://github.com/Hiasat/JordanCP/blob/master/strings/kmp.md) :x:
     * [Trie.](https://github.com/Hiasat/JordanCP/blob/master/strings/trie.md) :x:
 * Combinatorics
-    * [Rule of Sum and Product and Inclusion Exclusion](https://github.com/Hiasat/JordanCP/blob/master/strings/rule_of_sum_and_product_and_inclusion_exclusion.md) :heavy_check_mark:
-    * [Permutation and combination](https://github.com/Hiasat/JordanCP/blob/master/strings/permutation_and_combination.md) :x:
-    * [Stars and bars](https://github.com/Hiasat/JordanCP/blob/master/strings/stars_and_bars.md) :x:
+    * [Rule of Sum and Product and Inclusion Exclusion](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/rule_of_sum_and_product_and_inclusion_exclusion.md) :heavy_check_mark:
+    * [Permutation and combination](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/permutation_and_combination.md) :x:
+    * [Stars and bars](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/stars_and_bars.md) :x:
        
     
  ## License
