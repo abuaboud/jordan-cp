@@ -128,9 +128,9 @@ Points on Line:  [https://codeforces.com/contest/251/problem/A]
 
 Cartons of Milk: [https://codeforces.com/contest/767/problem/D]
 
-* Time Limit Exceeded? :[https://codeforces.com/gym/100676/attachments]
+Time Limit Exceeded? :[https://codeforces.com/gym/100676/attachments]
 
-* Mission in Amman(B) : [https://codeforces.com/gym/100989/problem/G] 
+Mission in Amman(B) : [https://codeforces.com/gym/100989/problem/G] 
 
 Longest K-Good Segment : [https://codeforces.com/problemset/problem/616/D]
 

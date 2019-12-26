@@ -5,12 +5,6 @@
 Binary Search is a searching algorithm in which you can find an element in a sorted big range of possible solutions but in each but in each iteration we erase half of the range. 
 Such solution takes no more than O(logN) which is really small even for really big numbers.
 
-
-# Two Pointers
-
-Two Pointers is a technique that is used to find a segment in an array that satisfies some conditions.
-The approach relies on the sequence following one specific property on which our pointers can move, we start with an interval and  keep expanding this interval as long as it satisfies the properties, otherwise we move the pointers. 
-
 ## Lecture 
 
 What you will learn:
@@ -18,8 +12,8 @@ What you will learn:
 - lower_bound
 - upper_bound
 - Built-in Binary search function
-- Two Pointers technique
 
+The Binary Search part ends at 1:28:00.
 
 [![](https://img.youtube.com/vi/C--fpya1vBw/0.jpg)](https://www.youtube.com/watch?v=C--fpya1vBw)
 
@@ -50,33 +44,7 @@ int main(){
 	printf("NO\n");
 }
 ```
-This code finds the maximum range that such that their sum is less than or equal to some number using two pointers 
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-#define ll long long
-#define all(x) x.begin(),x.end()
- 
- 
-int const N = 200001;
-int n, v[N], number;
- 
-int main(){
-   scanf("%d", &n);
-   for(int i = 0; i<n; ++i)scanf("%d", v+i);
-   scanf("%d", &number);
-   int l = 0, sum = 0, an = 0, from = 0, to = 0;
-   for(int i = 0; i<n; ++i){
-   	sum += v[i];
-   	while(sum > number){sum -= v[l], ++l;}
-   	if(i - l + 1 > an){
-   		an = i - l + 1;
-   		from = l, to = i;
-   	}
-   }
-   printf("%d %d %d\n", an, from , to);
-}
-```
+
 ## Practice Problems:
 
 !hasan : [https://codeforces.com/problemset/gymProblem/101257/D]
