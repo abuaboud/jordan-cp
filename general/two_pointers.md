@@ -19,7 +19,7 @@ What you will learn:
 
 ## Videos 
 
-[![](https://img.youtube.com/vi/wKM6bQdtBbo/0.jpg)](https://www.youtube.com/watch?v=n-Xwrr8RFQ0)
+[![](https://img.youtube.com/vi/Xwrr8RFQ0/0.jpg)](https://www.youtube.com/watch?v=n-Xwrr8RFQ0)
 
 ```cpp
 #include<iostream>
@@ -76,7 +76,7 @@ int main() {
 
 ```
 
-[![](https://img.youtube.com/vi/wKM6bQdtBbo/0.jpg)](https://www.youtube.com/watch?v=5As8FW_FldQ)
+[![](https://img.youtube.com/vi/5As8FW_FldQ/0.jpg)](https://www.youtube.com/watch?v=5As8FW_FldQ)
 
 ```cpp
 #include <bits/stdc++.h>
