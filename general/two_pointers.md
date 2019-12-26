@@ -19,7 +19,7 @@ What you will learn:
 
 ## Videos 
 
-[![](https://img.youtube.com/vi/Xwrr8RFQ0/0.jpg)](https://www.youtube.com/watch?v=n-Xwrr8RFQ0)
+[![](https://img.youtube.com/vi/n-Xwrr8RFQ0/0.jpg)](https://www.youtube.com/watch?v=n-Xwrr8RFQ0)
 
 ```cpp
 #include<iostream>
@@ -144,7 +144,6 @@ Beaver: [https://codeforces.com/problemset/problem/79/C]
 
 
 ## Needs Improvement:
-* Add the correct photo thumbnail for the YouTube videos.
 * Sort the problems by difficulty.
 * Check if 'Time Limit Exceeded?' and 'Mission in Amman(B)' can be solved using Two Pointers.
 
