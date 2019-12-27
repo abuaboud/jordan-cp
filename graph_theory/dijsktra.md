@@ -5,21 +5,26 @@ Dijkstra is an algorithm for finding the shortest path between nodes in a weight
 
 Prerequisite:
 - Data Structure (Priority Queue)
-- Graph Representaion
+- Introduction to Graph & Representaion
 - Breadth-First Search (bfs)
 
 What you will learn:
 - Dijkstra's Algorithm
 
 Videos:
-[![](http://i3.ytimg.com/vi/2zjv48EqNWU/maxresdefault.jpg)](https://www.youtube.com/watch?v=2zjv48EqNWU&list=PLPSFnlxEu99Ewm9LK4mBLkXeE-p_Bskha&index=9)
 
-[![](http://i3.ytimg.com/vi/rT9q0-xwUcE/maxresdefault.jpg)](https://www.youtube.com/watch?v=rT9q0-xwUcE&list=PLPSFnlxEu99Ewm9LK4mBLkXeE-p_Bskha&index=10)
+[![](https://img.youtube.com/vi/2zjv48EqNWU/0.jpg)](https://www.youtube.com/watch?v=2zjv48EqNWU)
+
+[![](https://img.youtube.com/vi/rT9q0-xwUcE/0.jpg)](https://www.youtube.com/watch?v=rT9q0-xwUcE)
 
 Code:
+
 Code to find the shortest path from specified node 'source' to all nodes (1 to n) in an undirected graph, result will be stored in 'cost' array. Complexity of dijkstra's algorithm is noOfEdges*log(noOfEdges).
+
 Code takes input in the form of:
-The first line contains two integers n and m, where n is the number of nodes and m is the number of edges. Following m lines contain one edge each in form ai, bi and wi , where ai,?bi are edge endpoints and wi is the length of the edge. Last line contains one integer s, source node.
+The first line contains two integers `n` and `m`, where `n` is the number of nodes and `m` is the number of edges.
+Following `m` lines contain one edge each in form `ai`, `bi` and `wi` ,
+where `ai`,`bi` are edge endpoints and `wi` is the length of the edge. Last line contains one integer `s`, source node.
 
 ```cpp
 #include <bits/stdc++.h>

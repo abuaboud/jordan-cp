@@ -36,7 +36,7 @@ There is a template written on what the blog should provide, you can find it in 
     * [Introduction to Graph theory.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/introduction_graph_theory.md) :heavy_check_mark:
     * [Breadth First Search.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/breadth_first_search.md) :x:
     * [Depth First Search.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/depth_first_search.md) :x:
-    * [Dijsktra.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/dijsktra.md) :x:
+    * [Dijsktra.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/dijsktra.md) :heavy_check_mark:
     * [Disjoint sets.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/disjoint_sets.md) :heavy_check_mark:
     * [Maximum Matching.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/maximum_matching.md) :x:
     * [Minimum/Maximum spanning tree.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/minimum_spanning_tree.md) :x:
