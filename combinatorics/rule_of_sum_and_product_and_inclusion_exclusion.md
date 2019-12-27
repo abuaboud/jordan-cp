@@ -21,8 +21,6 @@ at least one of several properties while guaranteeing that elements satisfying m
 
 ## Videos 
 
-It is strongly recommended that you include a video explanation. if you can find a good Arabic video, please include the Arabic one.
-
 [![](https://img.youtube.com/vi/7qQCQlSHsjU/0.jpg)](https://www.youtube.com/watch?v=7qQCQlSHsjU)
 
 Snake Rana from Arabella solved using Inclusion and Exclusion
@@ -33,8 +31,6 @@ https://codeforces.com/gym/101350/problem/G
 
 
 ## Practice Problems:
-
-Write here list of problem to practice on and their levels and some hints.
 
 Pashmak and Flowers: [https://codeforces.com/problemset/problem/459/B]
 

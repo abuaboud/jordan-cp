@@ -20,10 +20,10 @@ There is a template written on what the blog should provide, you can find it in 
     * [Introduction to Competitive programming.](https://github.com/Hiasat/JordanCP/blob/master/general/introduction_competitive_programming.md) :x:
     * [Binary Search.](https://github.com/Hiasat/JordanCP/blob/master/general/binary_search.md) :heavy_check_mark:
     * [Two Pointers.](https://github.com/Hiasat/JordanCP/blob/master/general/two_pointers.md) :heavy_check_mark:
-    * [Complexity.](https://github.com/Hiasat/JordanCP/blob/master/general/complexity.md) :x:
+    * [Complexity And BruteForce.](https://github.com/Hiasat/JordanCP/blob/master/general/complexity.md) :heavy_check_mark:
     * [Frequency Array.](https://github.com/Hiasat/JordanCP/blob/master/general/frequency_array.md) :x:
     * [Prefix Sum.](https://github.com/Hiasat/JordanCP/blob/master/general/prefix_sum.md) :x:
-    * [STL](https://github.com/Hiasat/JordanCP/blob/master/general/stl.md) :x:
+    * [Standard Template Library (STL)](https://github.com/Hiasat/JordanCP/blob/master/general/stl.md) :heavy_check_mark:
 * Data Structure
     * [Binary Indexed tree.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/binary_indexed_tree.md) :x:
     * [Segment tree.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/segment_tree.md) :heavy_check_mark:
@@ -49,7 +49,7 @@ There is a template written on what the blog should provide, you can find it in 
 * Combinatorics
     * [Rule of Sum and Product and Inclusion Exclusion](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/rule_of_sum_and_product_and_inclusion_exclusion.md) :heavy_check_mark:
     * [Permutation and combination](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/permutation_and_combination.md) :x:
-    * [Stars and bars](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/stars_and_bars.md) :x:
+    * [Stars and bars](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/stars_and_bars.md) :heavy_check_mark:
        
     
  ## License
