@@ -29,7 +29,7 @@ What you will learn:
 
 ## Practice Problems:
 
-Jolly Jumpers: [https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=979]
+Jolly Jumpers: [https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=979]
 
 I Wanna Be the Guy:  [https://codeforces.com/contest/469/problem/A]
 
