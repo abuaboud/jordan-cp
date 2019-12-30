@@ -2,7 +2,7 @@
 
 > Learn to enjoy it and build passion for problem solving, because unless you see the beauty in it don’t expect to keep going for long.
 
-Binary Search is a searching algorithm in which you can find an element in a sorted big range of possible solutions but in each but in each iteration we erase half of the range. 
+Binary Search is a searching algorithm in which you can find an element in a sorted big range of possible solutions but in each iteration we erase half of the range. 
 Such solution takes no more than O(logN) which is really small even for really big numbers.
 
 ## Lecture 
@@ -15,15 +15,13 @@ What you will learn:
 
 The Binary Search part ends at 1:28:00.
 
-[![](https://img.youtube.com/vi/C--fpya1vBw/0.jpg)](https://www.youtube.com/watch?v=C--fpya1vBw)
+[![](**https://img.youtube.com/vi/C--fpya1vBw/0.jpg**)](https://www.youtube.com/watch?v=C--fpya1vBw)
 
 This code finds a number in a given range using Binary Search algorithm
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
-#define ll long long
-#define all(x) x.begin(),x.end()
- 
+
 int const N = 200001;
 int n, v[N], number;
  
@@ -31,13 +29,13 @@ int main(){
 	scanf("%d", &n);
 	for(int i = 0; i<n; ++i)scanf("%d",v+i);
 	scanf("%d", &number);
-	int l = 0, r = n-1, md, an = -1;
+	int l = 0, r = n-1, md;
 	while(l <= r){
-		 md = (l+r)/2;
-		 if(v[md] < number)l = md+1;
-		 if(v[md] > number)r = md-1;
-		 if(v[md] == number){
-		 	 printf("YES\n%d\n", md+1);
+		 mid = (l+r)/2;
+		 if(v[mid] < number)l = mid+1;
+		 if(v[mid] > number)r = mid-1;
+		 if(v[mid] == number){
+		 	 printf("YES\n%d\n", mid+1);
 		 	 return 0;
 		 }
 	}

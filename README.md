@@ -31,7 +31,7 @@ There is a template written on what the blog should provide, you can find it in 
     * [Sparse table.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sparse_table.md) :x:
     * [SQRT Decomposition.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sqrt_decomposition.md) :x:
 * Dynamic Programming
-    * [Dynamic Programming Basic.](https://github.com/Hiasat/JordanCP/blob/master/dynamic-programming/dp-basic.md) :heavy_check_mark:
+    * [Dynamic Programming Basic.](https://github.com/Hiasat/JordanCP/blob/master/dynamic_programming/dp-basic.md) :heavy_check_mark:
 * Graph Theory
     * [Introduction to Graph theory.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/introduction_graph_theory.md) :heavy_check_mark:
     * [Breadth First Search.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/breadth_first_search.md) :x:
@@ -48,7 +48,7 @@ There is a template written on what the blog should provide, you can find it in 
     * [Trie.](https://github.com/Hiasat/JordanCP/blob/master/strings/trie.md) :x:
 * Combinatorics
     * [Rule of Sum and Product and Inclusion Exclusion](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/rule_of_sum_and_product_and_inclusion_exclusion.md) :heavy_check_mark:
-    * [Permutation and combination](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/permutation_and_combination.md) :x:
+    * [Permutation and combination](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/permutation_and_combination.md) :heavy_check_mark:
     * [Stars and bars](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/stars_and_bars.md) :heavy_check_mark:
        
     
