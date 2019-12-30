@@ -10,7 +10,7 @@ We will focus mainly on element update / range queries problems here.
 
 ## Range Sum / Element Update Queries
 
-[![](http://i3.ytimg.com/vi/KR7icII-RWI/maxresdefault.jpg)](https://youtu.be/KR7icII-RWI)
+[![](https://img.youtube.com/vi/KR7icII-RWI/0.jpg)](https://youtu.be/KR7icII-RWI)
 
 ```cpp
 #include <bits/stdc++.h>
@@ -79,7 +79,7 @@ int main() {
 
 ## Range Minimum / Element Update Queries
 
-[![](http://i3.ytimg.com/vi/8QKIAcPyagA/maxresdefault.jpg)](https://youtu.be/8QKIAcPyagA)
+[![](https://img.youtube.com/vi/8QKIAcPyagA/0.jpg)](https://youtu.be/8QKIAcPyagA)
 
 ```cpp
 #include <bits/stdc++.h>
@@ -174,7 +174,7 @@ int main() {
 
 Link : [https://codeforces.com/contest/597/problem/C]
 
-[![](http://i3.ytimg.com/vi/WRvpG8DTgzk/maxresdefault.jpg)](https://youtu.be/WRvpG8DTgzk)
+[![](https://img.youtube.com/vi/WRvpG8DTgzk/0.jpg)](https://youtu.be/WRvpG8DTgzk)
 
 Solution :
 
