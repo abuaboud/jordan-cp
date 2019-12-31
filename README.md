@@ -17,35 +17,42 @@ There is a template written on what the blog should provide, you can find it in 
 
 ## Progress 
 * General
-    * [Introduction to Competitive programming.](https://github.com/Hiasat/JordanCP/blob/master/general/introduction_competitive_programming.md) :x:
-    * [Binary Search.](https://github.com/Hiasat/JordanCP/blob/master/general/binary_search.md) :heavy_check_mark:
-    * [Two Pointers.](https://github.com/Hiasat/JordanCP/blob/master/general/two_pointers.md) :heavy_check_mark:
-    * [Complexity And BruteForce.](https://github.com/Hiasat/JordanCP/blob/master/general/complexity.md) :heavy_check_mark:
-    * [Frequency Array.](https://github.com/Hiasat/JordanCP/blob/master/general/frequency_array.md) :x:
-    * [Prefix Sum.](https://github.com/Hiasat/JordanCP/blob/master/general/prefix_sum.md) :x:
+    * [Introduction to Competitive programming](https://github.com/Hiasat/JordanCP/blob/master/general/introduction_competitive_programming.md) :x:
+    * [Binary Search](https://github.com/Hiasat/JordanCP/blob/master/general/binary_search.md) :heavy_check_mark:
+    * [Two Pointers](https://github.com/Hiasat/JordanCP/blob/master/general/two_pointers.md) :heavy_check_mark:
+    * [Complexity And BruteForce](https://github.com/Hiasat/JordanCP/blob/master/general/complexity.md) :heavy_check_mark:
+    * [Frequency Array](https://github.com/Hiasat/JordanCP/blob/master/general/frequency_array.md) :x:
+    * [Prefix Sum](https://github.com/Hiasat/JordanCP/blob/master/general/prefix_sum.md) :x:
     * [Standard Template Library (STL)](https://github.com/Hiasat/JordanCP/blob/master/general/stl.md) :heavy_check_mark:
 * Data Structure
-    * [Binary Indexed tree.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/binary_indexed_tree.md) :x:
-    * [Segment tree.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/segment_tree.md) :heavy_check_mark:
-    * [Lazy propagation.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/lazy_propagation.md) :x:
-    * [Sparse table.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sparse_table.md) :x:
-    * [SQRT Decomposition.](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sqrt_decomposition.md) :x:
+    * [Binary Indexed tree](https://github.com/Hiasat/JordanCP/blob/master/data_structure/binary_indexed_tree.md) :x:
+    * [Segment tree](https://github.com/Hiasat/JordanCP/blob/master/data_structure/segment_tree.md) :heavy_check_mark:
+    * [Lazy propagation](https://github.com/Hiasat/JordanCP/blob/master/data_structure/lazy_propagation.md) :x:
+    * [Sparse table](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sparse_table.md) :x:
+    * [SQRT Decomposition](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sqrt_decomposition.md) :x:
 * Dynamic Programming
-    * [Dynamic Programming Basic.](https://github.com/Hiasat/JordanCP/blob/master/dynamic_programming/dp-basic.md) :heavy_check_mark:
+    * [Dynamic Programming Basic](https://github.com/Hiasat/JordanCP/blob/master/dynamic_programming/dp-basic.md) :heavy_check_mark:
 * Graph Theory
-    * [Introduction to Graph theory.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/introduction_graph_theory.md) :heavy_check_mark:
-    * [Breadth First Search.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/breadth_first_search.md) :x:
-    * [Depth First Search.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/depth_first_search.md) :x:
-    * [Dijsktra.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/dijsktra.md) :heavy_check_mark:
-    * [Disjoint sets.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/disjoint_sets.md) :heavy_check_mark:
-    * [Maximum Matching.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/maximum_matching.md) :x:
-    * [Minimum/Maximum spanning tree.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/minimum_spanning_tree.md) :x:
-    * [Topological sort.](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/topological_sort.md) :heavy_check_mark:
+    * [Introduction to Graph theory](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/introduction_graph_theory.md) :heavy_check_mark:
+    * [Breadth First Search](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/breadth_first_search.md) :x:
+    * [Depth First Search](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/depth_first_search.md) :x:
+    * [Dijsktra](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/dijsktra.md) :heavy_check_mark:
+    * [Disjoint sets](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/disjoint_sets.md) :heavy_check_mark:
+    * [Maximum Matching](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/maximum_matching.md) :x:
+    * [Minimum/Maximum spanning tree](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/minimum_spanning_tree.md) :x:
+    * [Topological sort](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/topological_sort.md) :heavy_check_mark:
     * [Lowest Common Ancestor](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/lowest_common_ancestor.md) :x:
     * [Max Flow](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/max_flow.md) :x:
+    * [Strongly Connected Components](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/strongly_connected_components.md)
+    * [Bridges and Articulation Points](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/bridges_and_articulation_points.md)
 * Strings
-    * [KMP.](https://github.com/Hiasat/JordanCP/blob/master/strings/kmp.md) :x:
-    * [Trie.](https://github.com/Hiasat/JordanCP/blob/master/strings/trie.md) :x:
+    * [KMP](https://github.com/Hiasat/JordanCP/blob/master/strings/kmp.md) :x:
+    * [Trie](https://github.com/Hiasat/JordanCP/blob/master/strings/trie.md) :x:
+    * [Suffix_Array](https://github.com/Hiasat/JordanCP/blob/master/strings/suffix_array.md) :x:
+* Number Theory
+    * [Modular Arithmetic](https://github.com/Hiasat/JordanCP/blob/master/number_theory/modular_arthmetic.md) :x:
+* Math
+    * [Gaussian Elimination](https://github.com/Hiasat/JordanCP/blob/master/math/gaussian_elimination.md) :x:
 * Combinatorics
     * [Rule of Sum and Product and Inclusion Exclusion](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/rule_of_sum_and_product_and_inclusion_exclusion.md) :heavy_check_mark:
     * [Permutation and combination](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/permutation_and_combination.md) :heavy_check_mark:

@@ -4,7 +4,7 @@ It can be used to solve many simple counting problems, such as how many ways the
 https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)
 
 ## Prerequisites
-* [Permutation and combination](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/permutation_and_combination.md)
+* Permutation and combination
 
 ## Objectives
 * Stars and bars
