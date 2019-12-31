@@ -11,6 +11,8 @@ What you will learn:
 - STL Algorithm Library
 - Practice Problems
 
+Watch the following videos.
+
 ### STL - Intro:
 [![](https://img.youtube.com/vi/RR3loX9h2p4/mq1.jpg)](https://www.youtube.com/watch?v=RR3loX9h2p4)
 

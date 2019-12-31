@@ -17,7 +17,7 @@ There is a template written on what the blog should provide, you can find it in 
 
 ## Progress 
 * General
-    * [Introduction to Competitive programming](https://github.com/Hiasat/JordanCP/blob/master/general/introduction_competitive_programming.md) :x:
+    * [Introduction to Competitive programming](https://github.com/Hiasat/JordanCP/blob/master/general/introduction_competitive_programming.md) :heavy_check_mark:
     * [Binary Search](https://github.com/Hiasat/JordanCP/blob/master/general/binary_search.md) :heavy_check_mark:
     * [Two Pointers](https://github.com/Hiasat/JordanCP/blob/master/general/two_pointers.md) :heavy_check_mark:
     * [Complexity And BruteForce](https://github.com/Hiasat/JordanCP/blob/master/general/complexity.md) :heavy_check_mark:

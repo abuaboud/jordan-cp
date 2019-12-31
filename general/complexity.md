@@ -14,6 +14,7 @@ What you will learn:
 - Examples on the most common time complexity classes.
 - Introduction to the brute force technique through some practice problems.
 
+Watch the following video.
 
 [![](https://img.youtube.com/vi/sOYBdcsMePE/mq1.jpg)](https://www.youtube.com/watch?v=sOYBdcsMePE)
 
