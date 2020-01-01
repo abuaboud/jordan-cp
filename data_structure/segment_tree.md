@@ -248,3 +248,6 @@ Not Equal on a Segment (can be solved without segment tree) : [https://codeforce
 
 **Authors**:
 - Obada Abadi
+
+**Video Credits**:
+* Ibraheem Tuffaha

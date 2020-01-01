@@ -60,10 +60,13 @@ Also check out the national contests for jordan on Facebook 'https://www.faceboo
 
 Good luck with your journey and we wish you the best of luck.
 
-Authors:
+**Authors**:
 
-*  Mohammad AbuAboud.
+* Mohammad AbuAboud.
 
-*  Abdul-Rahman Khalil.
+* Abdul-Rahman Khalil.
 
 * Ayoub AbuAsbeh.
+
+**Video Credits**:
+* Hasan Al Hamsh

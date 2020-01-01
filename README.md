@@ -53,6 +53,9 @@ There is a template written on what the blog should provide, you can find it in 
     * [Modular Arithmetic](https://github.com/Hiasat/JordanCP/blob/master/number_theory/modular_arthmetic.md) :x:
 * Math
     * [Gaussian Elimination](https://github.com/Hiasat/JordanCP/blob/master/math/gaussian_elimination.md) :x:
+* Game Theory
+    * [Nim Game](https://github.com/Hiasat/JordanCP/blob/master/game_theory/nim_game.md) :x:
+    * [Grundy Numbers](https://github.com/Hiasat/JordanCP/blob/master/game_theory/grundy_numbers.md) :x:
 * Combinatorics
     * [Rule of Sum and Product and Inclusion Exclusion](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/rule_of_sum_and_product_and_inclusion_exclusion.md) :heavy_check_mark:
     * [Permutation and combination](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/permutation_and_combination.md) :heavy_check_mark:

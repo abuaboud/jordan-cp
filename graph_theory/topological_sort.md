@@ -68,3 +68,6 @@ Online Courses In BSU [https://codeforces.com/contest/770/problem/C]
 
 **Authors:**
 * Mohammad AbuAboud.
+
+**Video Credits**:
+* Hasan Al Hamsh

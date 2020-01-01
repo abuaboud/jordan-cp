@@ -15,7 +15,7 @@ What you will learn:
 
 The Binary Search part ends at 1:28:00.
 
-[![](**https://img.youtube.com/vi/C--fpya1vBw/0.jpg**)](https://www.youtube.com/watch?v=C--fpya1vBw)
+[![](https://img.youtube.com/vi/C--fpya1vBw/0.jpg)](https://www.youtube.com/watch?v=C--fpya1vBw)
 
 This code finds a number in a given range using Binary Search algorithm
 ```cpp
@@ -83,3 +83,6 @@ Two Tvs: [https://codeforces.com/contest/845/problem/C]
 
 **Authors:**
 * Nour Bzour
+
+**Video Credits**:
+* Husam Musleh
