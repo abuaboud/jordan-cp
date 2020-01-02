@@ -8,7 +8,7 @@ the order is not important
 
 ## Prerequisites
 
-* None
+* Modular Arithmetic
 
 ## Objectives
 * Permutation
