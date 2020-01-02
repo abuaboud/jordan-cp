@@ -6,7 +6,7 @@ if we pick any pair of vertices u, and v in the SCC we can find a path from u to
 
 So if we have the following graph: 
 
-![](https://github.com/Hiasat/JordanCP/blob/master/resources/graph.png?raw=true)
+![](https://github.com/Hiasat/JordanCP/blob/master/resources/resized-graph.png?raw=true)
 
 There are 3 SCCs.
 There are two known algorithms to find SCCs ,Kosaraju’s and Tarjan’s algorithm.
