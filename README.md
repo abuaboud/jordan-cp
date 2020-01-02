@@ -22,7 +22,7 @@ There is a template written on what the blog should provide, you can find it in 
     * [Two Pointers](https://github.com/Hiasat/JordanCP/blob/master/general/two_pointers.md) :heavy_check_mark:
     * [Complexity And BruteForce](https://github.com/Hiasat/JordanCP/blob/master/general/complexity.md) :heavy_check_mark:
     * [Frequency Array](https://github.com/Hiasat/JordanCP/blob/master/general/frequency_array.md) :x:
-    * [Prefix Sum](https://github.com/Hiasat/JordanCP/blob/master/general/prefix_sum.md) :x:
+    * [Prefix Sum](https://github.com/Hiasat/JordanCP/blob/master/general/prefix_sum.md) :heavy_check_mark:
     * [Standard Template Library (STL)](https://github.com/Hiasat/JordanCP/blob/master/general/stl.md) :heavy_check_mark:
 * Data Structure
     * [Binary Indexed tree](https://github.com/Hiasat/JordanCP/blob/master/data_structure/binary_indexed_tree.md) :x:
@@ -41,10 +41,10 @@ There is a template written on what the blog should provide, you can find it in 
     * [Maximum Matching](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/maximum_matching.md) :x:
     * [Minimum/Maximum spanning tree](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/minimum_spanning_tree.md) :x:
     * [Topological sort](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/topological_sort.md) :heavy_check_mark:
-    * [Lowest Common Ancestor](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/lowest_common_ancestor.md) :x:
+    * [Lowest Common Ancestor](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/lowest_common_ancestor.md) :heavy_check_mark:
     * [Max Flow](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/max_flow.md) :x:
-    * [Strongly Connected Components](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/strongly_connected_components.md)
-    * [Bridges and Articulation Points](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/bridges_and_articulation_points.md)
+    * [Strongly Connected Components](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/strongly_connected_components.md) :x: 
+    * [Bridges and Articulation Points](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/bridges_and_articulation_points.md) :x:
 * Strings
     * [KMP](https://github.com/Hiasat/JordanCP/blob/master/strings/kmp.md) :x:
     * [Trie](https://github.com/Hiasat/JordanCP/blob/master/strings/trie.md) :x:

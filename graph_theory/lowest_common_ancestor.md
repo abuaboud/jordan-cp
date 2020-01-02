@@ -12,7 +12,7 @@ What you will learn:
 
 Videos:
 
-[![](https://img.youtube.com/vi/tHkaoi/0.jpg)](https://www.youtube.com/watch?v=tHkaoi)
+[![](https://img.youtube.com/vi/lSxH-OBE66I/0.jpg)](https://www.youtube.com/watch?v=lSxH-OBE66I)
 
 Given a tree `n` number of nodes and `n-1` edges 
 
