@@ -43,7 +43,7 @@ There is a template written on what the blog should provide, you can find it in 
     * [Topological sort](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/topological_sort.md) :heavy_check_mark:
     * [Lowest Common Ancestor](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/lowest_common_ancestor.md) :heavy_check_mark:
     * [Max Flow](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/max_flow.md) :x:
-    * [Strongly Connected Components](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/strongly_connected_components.md) :x: 
+    * [Strongly Connected Components](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/strongly_connected_components.md) :heavy_check_mark:
     * [Bridges and Articulation Points](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/bridges_and_articulation_points.md) :x:
 * Strings
     * [KMP](https://github.com/Hiasat/JordanCP/blob/master/strings/kmp.md) :x:
