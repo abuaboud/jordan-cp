@@ -8,6 +8,9 @@ A cumulative sum is a sequence of partial sums of a given sequence. For example,
 * Two-dimensional array: O(n*m)
 * Answering each query: O(1)
 
+## Prerequisites
+* None
+
 ## Lecture
 In this video, you will learn about cumulative sum and its code.
 

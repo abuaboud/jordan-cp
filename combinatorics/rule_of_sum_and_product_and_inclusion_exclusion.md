@@ -11,7 +11,6 @@ The principle of inclusion and exclusion (PIE) is a counting technique that comp
 at least one of several properties while guaranteeing that elements satisfying more than one property are not counted twice.
 
 ## Prerequisites
-
 * None
 
 ## Objectives
