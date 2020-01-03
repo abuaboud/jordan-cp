@@ -15,17 +15,18 @@ In this video, you will learn about the frequency array.
 #include <bits/stdc++.h>
 using namespace std;
 
-int count[MAX_INTEGER],n,a[N];
+const int MAX_INTEGER = 9;
+
+int cnt[MAX_INTEGER+1],a[10]={0,1,2,3,8,8,8,8,8,9};
 
 int main() {
-     // Read an array and store it in array `a`
-    for(int i = 0 ; i < n ; ++i){
+    for(int i = 0 ; i < 10 ; ++i){
         int x = a[i];    
-        count[x]++;
+        cnt[x]++;
     }   
     for(int i = 0 ; i <= MAX_INTEGER ; ++i){
-        if(count[i]){
-            cout << "Number " << i << " frequency is " << count[i] << endl;
+        if(cnt[i]){
+            cout << "Number " << i << " frequency is " << cnt[i] << endl;
         }
     }
 	return 0;
