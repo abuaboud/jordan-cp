@@ -1,6 +1,6 @@
 # BFS ( Breadth-First-Search )
 
-After we store our data in graph data-structure , in some cases we need to search or traversing in this data, so in in 1945 “Konrad Zuse” invented a BFS algorithm .
+After we store our data in graph data-structure , in some cases we need to search or traversing in this data, so in 1945 “Konrad Zuse” invented a BFS algorithm .
 
 The idea behind BFS is 
 - Look at all possible paths at the same depth before you go at a deeper level .
@@ -170,6 +170,16 @@ Code 1 : https://ideone.com/MJa976
 
 Problem 2: [https://codeforces.com/problemset/problem/377/A]
 Code 2 : https://ideone.com/Ivwigz
+
+
+Problem 3: [https://codeforces.com/contest/199/problem/D]
+Code 3 : https://ideone.com/tyWXrN
+
+
+Problem 4: [https://codeforces.com/contest/242/problem/C]
+Code 4 : https://ideone.com/gLIKKS
+
+
 
 
 **Authors:**
