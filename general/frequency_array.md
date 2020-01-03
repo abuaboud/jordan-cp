@@ -110,6 +110,5 @@ ZgukistringZ [https://codeforces.com/contest/551/problem/B]
 * Rand Abu Al-Ragheb
 
 **Video Credits:**
-* Nada Al-Shamayleh
-* Mohammad Zuhair
+* Muhammed Afifi
     
