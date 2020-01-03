@@ -14,22 +14,20 @@ In this video, you will learn about the frequency array.
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
-string s;
-int n,freq[200];
+
+int count[MAX_INTEGER],n,a[N];
+
 int main() {
-    cin >>n>>s;
-    if (n==1){
-        cout <<"YES";
-        return 0;
+     // Read an array and store it in array `a`
+    for(int i = 0 ; i < n ; ++i){
+        int x = a[i];    
+        count[x]++;
+    }   
+    for(int i = 0 ; i <= MAX_INTEGER ; ++i){
+        if(count[i]){
+            cout << "Number " << i << " frequency is " << count[i] << endl;
+        }
     }
-    for (int i=0;i<n;i++){
-	    freq[s[i]]++;
-	    if (freq[s[i]]==2) {
-	    	cout <<"YES";
-	    	return 0;
-    	}
-    }
-    cout <<"NO";
 	return 0;
 }
 ```
