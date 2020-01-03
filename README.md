@@ -21,7 +21,7 @@ There is a template written on what the blog should provide, you can find it in 
     * [Binary Search](https://github.com/Hiasat/JordanCP/blob/master/general/binary_search.md) :heavy_check_mark:
     * [Two Pointers](https://github.com/Hiasat/JordanCP/blob/master/general/two_pointers.md) :heavy_check_mark:
     * [Complexity And BruteForce](https://github.com/Hiasat/JordanCP/blob/master/general/complexity.md) :heavy_check_mark:
-    * [Frequency Array](https://github.com/Hiasat/JordanCP/blob/master/general/frequency_array.md) :x:
+    * [Frequency Array](https://github.com/Hiasat/JordanCP/blob/master/general/frequency_array.md) :heavy_check_mark:
     * [Prefix Sum](https://github.com/Hiasat/JordanCP/blob/master/general/prefix_sum.md) :heavy_check_mark:
     * [Standard Template Library (STL)](https://github.com/Hiasat/JordanCP/blob/master/general/stl.md) :heavy_check_mark:
 * Data Structure
@@ -34,8 +34,8 @@ There is a template written on what the blog should provide, you can find it in 
     * [Dynamic Programming Basic](https://github.com/Hiasat/JordanCP/blob/master/dynamic_programming/dp-basic.md) :heavy_check_mark:
 * Graph Theory
     * [Introduction to Graph theory](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/introduction_graph_theory.md) :heavy_check_mark:
-    * [Breadth First Search](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/breadth_first_search.md) :x:
-    * [Depth First Search](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/depth_first_search.md) :x:
+    * [Breadth First Search](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/breadth_first_search.md) :heavy_check_mark:
+    * [Depth First Search](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/depth_first_search.md) :heavy_check_mark:
     * [Dijsktra](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/dijsktra.md) :heavy_check_mark:
     * [Disjoint sets](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/disjoint_sets.md) :heavy_check_mark:
     * [Maximum Matching](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/maximum_matching.md) :x:

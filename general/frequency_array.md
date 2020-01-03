@@ -8,8 +8,6 @@ Frequency Array is an array used to find the frequency of some elements in a ran
 ## Lecture
 In this video, you will learn about the frequency array.
 
-In these two videos, you will know how frequency array is used in problems.
-
 [![](https://img.youtube.com/vi/kQGTjql8WjI/0.jpg)](https://www.youtube.com/watch?v=kQGTjql8WjI)
 
 
@@ -42,15 +40,16 @@ Each character has an ASCII code (ex: ‘a’=97,’A’=65,’0’=48).
 
 So for the frequency array, we create an array with the size of Alphabets or numbers (from 0 to 9) 
 
-
 How can we get the index zero for the letter ‘a’, index one for ‘b’ …. Index 25 for ‘z’?
+
 The answer is just subtracting ‘a’(the ASCII value) from each character we want to get its frequency.
+
 ‘a’-‘a’=0 --> 97-97=0
+
 ‘b’-‘a’=1 --> 98-97=1
-    .
-    .
-    .
+
 ‘z’-‘a’=25 --> 122-97=25
+
 And for uppercase characters, we subtract ‘A’.
 And for numbers (as characters), we subtract ‘0’.
 
