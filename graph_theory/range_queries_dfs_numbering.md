@@ -1,13 +1,11 @@
-
-
-# Segment Tree using DFS numbering
+# Range Queries using DFS numbering
 
 It’s a method for representing a rooted tree as sequence of nodes in array, 
 useful for using segment tree data structure on trees
 
 ## Prerequisites
 
-* DFS
+* Depth First Search
 * Segment Tree
 * Segment tree lazy propagation(Good to know)
 
@@ -22,11 +20,11 @@ When traversing the tree using Depth-first search(DFS), insert each node in a ve
 
 Consider a rooted tree with 6 vertices connected as given below
 
-![firstImage](https://raw.githubusercontent.com/Hiasat/JordanCP/master/resources/tree1.png)
+![](https://raw.githubusercontent.com/Hiasat/JordanCP/master/resources/tree1.png)
 
 After applying DFS numbering on them
 
-![enter image description here](https://raw.githubusercontent.com/Hiasat/JordanCP/master/resources/tree2.png)
+![](https://raw.githubusercontent.com/Hiasat/JordanCP/master/resources/tree2.png)
 
 
 now as you can see, the entry time and exit time values represent a subarray in dfs_array, the values in the subarray are the nodes in that subtree
@@ -37,7 +35,7 @@ entry time : 1
 exit time : 4
 dfs_array[1: 4] represent the subtree of node 3
 
-![enter image description here](https://raw.githubusercontent.com/Hiasat/JordanCP/master/resources/tree3.png)
+![](https://raw.githubusercontent.com/Hiasat/JordanCP/master/resources/tree3.png)
 
 Code example:
 
@@ -202,7 +200,5 @@ Tree and Queries: [[https://codeforces.com/problemset/problem/375/D](https://cod
 Propagating tree: [[https://codeforces.com/problemset/problem/383/C](https://codeforces.com/problemset/problem/383/C)] 
 
 
-
 **Authors:**
-
--   Samer Rawashdeh
+*   Samer Rawashdeh
