@@ -11,22 +11,26 @@ In this video, you will learn about the frequency array.
 [![](https://img.youtube.com/vi/kQGTjql8WjI/0.jpg)](https://www.youtube.com/watch?v=kQGTjql8WjI)
 
 
+An example code that has pre-defined array and it constructs the frequency array for this array.
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
 const int MAX_INTEGER = 9;
 
-int cnt[MAX_INTEGER+1],a[10]={0,1,2,3,8,8,8,8,8,9};
+int frequency[MAX_INTEGER+1],a[10]={0,1,2,3,8,8,8,8,8,9};
+
+// frequency[i] represent how many times i occur in array `a`
 
 int main() {
     for(int i = 0 ; i < 10 ; ++i){
         int x = a[i];    
-        cnt[x]++;
+        frequency[x]++;
     }   
     for(int i = 0 ; i <= MAX_INTEGER ; ++i){
-        if(cnt[i]){
-            cout << "Number " << i << " frequency is " << cnt[i] << endl;
+        if(frequency[i]){
+            cout << "Number " << i << " frequency is " << frequency[i] << endl;
         }
     }
 	return 0;
