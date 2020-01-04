@@ -25,7 +25,7 @@ There is a template written on what the blog should provide, you can find it in 
     * [Prefix Sum](https://github.com/Hiasat/JordanCP/blob/master/general/prefix_sum.md) :heavy_check_mark:
     * [Standard Template Library (STL)](https://github.com/Hiasat/JordanCP/blob/master/general/stl.md) :heavy_check_mark:
 * Data Structure
-    * [Binary Indexed tree](https://github.com/Hiasat/JordanCP/blob/master/data_structure/binary_indexed_tree.md) :x:
+    * [Binary Indexed tree](https://github.com/Hiasat/JordanCP/blob/master/data_structure/binary_indexed_tree.md) :heavy_check_mark:
     * [Segment tree](https://github.com/Hiasat/JordanCP/blob/master/data_structure/segment_tree.md) :heavy_check_mark:
     * [Lazy propagation](https://github.com/Hiasat/JordanCP/blob/master/data_structure/lazy_propagation.md) :heavy_check_mark:
     * [Sparse table](https://github.com/Hiasat/JordanCP/blob/master/data_structure/sparse_table.md) :x:
