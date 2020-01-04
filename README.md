@@ -39,7 +39,7 @@ There is a template written on what the blog should provide, you can find it in 
     * [Dijsktra](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/dijsktra.md) :heavy_check_mark:
     * [Disjoint sets](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/disjoint_sets.md) :heavy_check_mark:
     * [Maximum Matching](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/maximum_matching.md) :x:
-    * [Minimum/Maximum spanning tree](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/minimum_spanning_tree.md) :x:
+    * [Minimum/Maximum spanning tree](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/minimum_spanning_tree.md) :heavy_check_mark:
     * [Topological sort](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/topological_sort.md) :heavy_check_mark:
     * [Lowest Common Ancestor](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/lowest_common_ancestor.md) :heavy_check_mark:
     * [Max Flow](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/max_flow.md) :x:
