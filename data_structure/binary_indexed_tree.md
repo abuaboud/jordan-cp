@@ -1,4 +1,4 @@
-# Binary Index Tree
+# Binary Indexed Tree
 A Binary Indexed tree or a Fenwick tree is a data structure that is used to efficiently answer certain types of range queries.
 
 It also allows quick updates on individual data points.

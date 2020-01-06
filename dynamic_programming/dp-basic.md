@@ -168,18 +168,18 @@ int main(){
 
 #### Practice Problems:
 
-Frog 1: [ https://atcoder.jp/contests/dp/tasks/dp_a ] 
+Frog 1: https://atcoder.jp/contests/dp/tasks/dp_a 
 
-Frog 2: [ https://atcoder.jp/contests/dp/tasks/dp_b ]
+Frog 2: https://atcoder.jp/contests/dp/tasks/dp_b
 
-Vacation: [ https://atcoder.jp/contests/dp/tasks/dp_c ]
+Vacation: https://atcoder.jp/contests/dp/tasks/dp_c
 
-Knapsack 1: [ https://atcoder.jp/contests/dp/tasks/dp_d ]
+Knapsack 1: https://atcoder.jp/contests/dp/tasks/dp_d
 
-Knapsack 2: [ https://atcoder.jp/contests/dp/tasks/dp_e ]
+Knapsack 2: https://atcoder.jp/contests/dp/tasks/dp_e
 
-LCS: [ https://atcoder.jp/contests/dp/tasks/dp_f ]
+LCS: https://atcoder.jp/contests/dp/tasks/dp_f
 
-Longest Path: [ https://atcoder.jp/contests/dp/tasks/dp_g ]
+Longest Path: https://atcoder.jp/contests/dp/tasks/dp_g
 
-Atcoder DP educational problems: [ https://atcoder.jp/contests/dp/tasks ]
+Atcoder DP educational problems: https://atcoder.jp/contests/dp/tasks
