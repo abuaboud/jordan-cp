@@ -17,16 +17,21 @@ More Info About The ACM-IPC International Collegiate Programming Contest (https:
 IEEEXtreme (often abbreviated as Xtreme) is an annual hackathon and competitive programming challenge in which teams of IEEE Student members, often supported by an IEEE Student Branch and proctored by an IEEE member, compete in a 24-hour time span against each other to solve a set of programming problems. The competition is underwritten and coordinated by IEEE's Membership and Geographic Activities department and is often supported by partnering sponsors, like the IEEE Computer Society.
 More Info about IEEEXtreme (https://www.ieee.org/membership/students/competitions/xtreme/index.html)
 
-### 3. TopCoder
+### 3. CodeForces
 
-TopCoder is fast becoming the major league for programming competitions. TopCoder brings members together once a week to compete online (Single Round Match) and twice a year both online and on location (Tournaments).
-The top-ranked users on TopCoder are very good competitive programmers and regularly compete in programming competitions.
-More Info about TopCoder (https://www.topcoder.com/)
+Codeforces is a project joining people interested in and taking part in programming contests. On one hand, Codeforces is a social network dedicated to programming and programming contests. On the other hand, it is a platform where contests are held regularly, the participant's skills are reflected by their rating and the former contests can be used to prepare. Codeforces constantly develops and we plan to improve the platform to give the participants the opportunity to organize their own contests, filling the project with learning content, developing Codeforces as a training and learning platform.
+More Info about CodeForces (https://www.codeforces.com/help)
 
 ### 4. Google Code Jam
 
 Google Code Jam is an annual programming competition in which professional and student programmers are asked to solve complex algorithmic challenges in a limited amount of time, using the programming language of their choice. This contest starts online and programmers can practice by trying out problems from years.
 More Info about Google Code Jam (https://codingcompetitions.withgoogle.com/codejam)
+
+### 5. Facebook Hacker cup
+
+Facebook hacker cup is an annual algorithmic programming contest organized by Facebook. Be it students, professionals or experts it attracts numerous programming enthusiasts from all around the globe. Top contenders are eligible for the interview call from Facebook for Software Developer role.
+Facebook Hacker cup is particularly known for its different environment used for Judging and the variety of problems. It is conducted in many rounds where the difficulty of algorithmic challenges keep on increasing.
+More Info about Facebook Hacker cup (https://www.facebook.com/hackercup/)
 
 ## Why should you start Competitive Programming?
 
@@ -63,7 +68,6 @@ There are plenty of platforms for practicing this sport.
 - SPOJ
 - CodeChef
 - Codeforces
-- TopCoder
 - Hackerearth
 - Hackerrank
 
