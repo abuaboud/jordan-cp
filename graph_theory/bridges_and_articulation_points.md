@@ -1,4 +1,4 @@
-# [Bridges and Articulation Points]
+# Bridges and Articulation Points
 A bridges is an edge of a graph whose deletion increases its number of connected components. This means if we delete an edge and the number of components in the graph increases this edge is a bridge.
 An articulation point is a node whose deletion increases its number of connected components same as a bridge.
 
