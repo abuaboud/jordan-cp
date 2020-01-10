@@ -2,6 +2,7 @@
 * A simple but powerful data structure.
 * It adds/searches for string in O (L).
 * It is a tree with branches as letters.
+
 ## Prerequisites
 * None
 
