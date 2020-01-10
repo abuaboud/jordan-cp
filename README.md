@@ -45,17 +45,17 @@ There is a template written on what the blog should provide, you can find it in 
     * [Max Flow](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/max_flow.md) :x:
     * [DFS Numbering and Range Queries](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/range_queries_dfs_numbering.md) :heavy_check_mark:
     * [Strongly Connected Components](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/strongly_connected_components.md) :heavy_check_mark:
-    * [Bridges and Articulation Points](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/bridges_and_articulation_points.md) :x:
+    * [Bridges and Articulation Points](https://github.com/Hiasat/JordanCP/blob/master/graph_theory/bridges_and_articulation_points.md) :heavy_check_mark:
 * Strings
-    * [KMP](https://github.com/Hiasat/JordanCP/blob/master/strings/kmp.md) :x:
-    * [Trie](https://github.com/Hiasat/JordanCP/blob/master/strings/trie.md) :x:
-    * [Suffix_Array](https://github.com/Hiasat/JordanCP/blob/master/strings/suffix_array.md) :x:
+    * [KMP](https://github.com/Hiasat/JordanCP/blob/master/strings/kmp.md) :heavy_check_mark:
+    * [Trie](https://github.com/Hiasat/JordanCP/blob/master/strings/trie.md) :heavy_check_mark:
+    * [Suffix_Array](https://github.com/Hiasat/JordanCP/blob/master/strings/suffix_array.md) :heavy_check_mark:
 * Number Theory
     * [Modular Arithmetic](https://github.com/Hiasat/JordanCP/blob/master/number_theory/modular_arthmetic.md) :x:
 * Math
     * [Gaussian Elimination](https://github.com/Hiasat/JordanCP/blob/master/math/gaussian_elimination.md) :x:
 * Game Theory
-    * [Nim Game](https://github.com/Hiasat/JordanCP/blob/master/game_theory/nim_game.md) :x:
+    * [Nim Game](https://github.com/Hiasat/JordanCP/blob/master/game_theory/nim_game.md) :heavy_check_mark:
     * [Grundy Numbers](https://github.com/Hiasat/JordanCP/blob/master/game_theory/grundy_numbers.md) :x:
 * Combinatorics
     * [Rule of Sum and Product and Inclusion Exclusion](https://github.com/Hiasat/JordanCP/blob/master/combinatorics/rule_of_sum_and_product_and_inclusion_exclusion.md) :heavy_check_mark:
