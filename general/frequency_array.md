@@ -60,14 +60,14 @@ And for numbers (as characters), we subtract ‘0’.
 #include <iostream>
 using namespace std;
 string s;
-int freq[25];//all the values are zeroes because of the global declaration
+int freq[26];//all the values are zeroes because of the global declaration
 
 int main() {
 	cin >> s;
 	for (int i = 0 ; i < s.size() ; i++){
 	    freq[s[i]-'a']++;//freq[x]=freq[x]+1
 	}
-	for (int i=0;i<25;i++){
+	for (int i=0;i<26;i++){
 	    if (freq[i]){// if there is an occurrence for the character (i+'a') in the given numbers print the character and it's frequency
 	        cout <<"The frequency of "<< char(i+'a') << " in the given string = " <<freq[i]<<endl;
 	    }
