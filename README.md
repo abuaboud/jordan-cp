@@ -2,7 +2,7 @@
 This repository is dedicated to collect all the efforts and videos of jordan competitive programming community and make 
 a clear Roadmap for new trainee.
 
-The content in this repository will be later exported to a website.
+Roadmap website: https://jordan-cp.com/
 
 ## Main Goals:
 - Videos should be in arabic (Language barrier).

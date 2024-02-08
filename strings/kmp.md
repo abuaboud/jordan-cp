@@ -90,7 +90,7 @@ int main() {
 ```
 
 
-##Practice Problems
+## Practice Problems
 
 
 * https://www.spoj.com/problems/EPALIN/
